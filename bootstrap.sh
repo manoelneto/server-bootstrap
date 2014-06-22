@@ -19,7 +19,7 @@ n=/dev/null
 # export CPPFLAGS=-Qunused-arguments
 
 # updating system
-# apt-get update
+apt-get update
 
 # configuring locale
 locale -a | grep $DEFAULT_LOCALE > $n
