@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #User editable
-USER='athenas'
+USER='site'
 DEFAULT_LOCALE='pt_BR.utf8'
 APPS_DIR='/deploy'
 
